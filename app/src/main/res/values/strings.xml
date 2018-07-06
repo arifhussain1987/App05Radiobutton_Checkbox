@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App05Radiobutton&amp;Checkbox</string>
+    <string name="title">Skills</string>
+    <string name="Programming">Programming</string>
+    <string name="web_design">Web Designing</string>
+    <string name="graphic">Graphics</string>
+    <string name="datastruc">Data Structure</string>
+    <string name="submit">Submit</string>
+    <string name="terms">I accept the terms and conditions</string>
+</resources>
